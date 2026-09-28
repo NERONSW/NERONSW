@@ -4,7 +4,7 @@
 
 Full-Stack Software Developer with 4+ years of experience turning Melbourne coffee into production-ready web applications and digital platforms across Healthcare, FinTech, MarTech, and CMS environments.
 
-I specialize in full-lifecycle product development—which means I handle everything from engineering core architectures and leading frontend delivery teams down to fighting CSS grid until it surrenders.
+I specialize in full-lifecycle product development, which means I handle everything from engineering core architectures and leading frontend delivery teams down to fighting CSS grid until it surrenders.
 
 ---
 
