@@ -30,8 +30,10 @@ PostgreSQL • MongoDB • MySQL • MariaDB • DynamoDB
 
 Microservices • RBAC • Git • Jira • Figma • Claude Code • Gemini • Ollama
 
-🌱 **Currently exploring:** AI, distributed systems, modern full-stack architectures, and scalable backend development.
+## 🌱 Currently Exploring
+
+AI applications and AI use cases, distributed systems, modern full-stack architectures, and scalable backend development.
 
 ## 📍 Based in
 
-Melbourne, Victoria, Australia.
+Building cloud-native solutions from Melbourne, where the weather changes faster than JavaScript frameworks.
